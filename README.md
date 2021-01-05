@@ -11,7 +11,7 @@ How to use this project?
 
 1. Download and install the minecraft education install packages from following Link. (Mac and Windows)
 
-  Download website: https://education.minecraft.net/get-started/download
+    Download website: https://education.minecraft.net/get-started/download
 
 2. Download this newest release(filename end of .mcworld)
 
