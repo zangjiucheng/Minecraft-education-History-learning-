@@ -7,7 +7,8 @@ The most of history knowledge is from "Journeys through the history of quebec an
 Thanks for Yizhi's help to design this program!
 
 How to use this project?
-1. Download and install the minecraft education install packages. (Mac and Windows)
+1. Download and install the minecraft education install packages from following Link. (Mac and Windows)
+Download website:https://education.minecraft.net/get-started/download
 2. Download this newest release(filename end of .mcworld)
 3. Start-up the minecraft education program, and login in! (You can try your school accoent!)
 3. Double click the file(.mcworld) you download, It will start to import this map, so you just need to wait a minutes! 
